@@ -1,0 +1,52 @@
+S GN GV
+S GN ATTRIBUT
+S GV ATTRIBUT
+GN DET NOM
+GV VERBE GN
+GV PNOBJ VERBE
+PHREL PREL S
+GN GN PHREL
+GADJ ADV ADJ
+ATTRIBUT COPULE GADJ
+ATTRIBUT COPULE PHCompa
+DebutGVNeg N1 GV
+GVNeg DebutGVNeg N2
+PHInverse GVNeg GV
+PHCONJ CONJ PHInverse
+GV GVNeg PHCONJ
+ADVCompa ADV PREL
+PHCompa ADVCompa GV
+GN Il
+GN il
+GV programme
+GV sait
+VERBE sait
+PNOBJ le
+PNOBJ Le
+VERBE fait
+VERBE faire
+VERBE programme
+VERBE constitue
+VERBE dire
+NOM exploit
+NOM programme
+NOM fait
+PREL qu'
+PREL que
+DET un
+DET Le
+DET Ce
+COPULE est
+ADV tres
+ADV mieux
+ADJ complexe
+VERBE complexe
+NOM complexe
+N1 ne
+N2 pas
+CONJ ou
+NOM un
+ADJ est
+NOM est
+NOM pas
+NOM mieux
